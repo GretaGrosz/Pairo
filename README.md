@@ -91,16 +91,3 @@ See [`bom.csv`](bom.csv). I'm ordering the PCBs and stencils from JLCPCB, the ch
 - **Total: ≈ $390**
 
 I first planned a FLIR Lepton thermal camera, but its price went up to $121 and it is getting discontinued, so I switched to two MLX90640 sensors. I kept the Lepton socket footprint on the head board as an optional upgrade.
-
-## Status
-
-- [x] Schematics for all 4 boards
-- [x] PCB layouts, DRC checked
-- [x] 3D model of the body
-- [ ] Order PCBs and parts
-- [ ] Firmware (sensor capture, left/right analysis, rewarming test, Peltier control)
-- [ ] Build, test on healthy volunteers, demo at Maker Faire Shenzhen
-
-## Use of AI
-
-(we write this together at the end)
